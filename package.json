@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "xmysql postgres://naucoiyrpdrgwu:2ba0ac80f4100585e20ad77e0cc575bb5073a567e1c7aa73cce0b08eb9e2dba1@ec2-54-83-27-165.compute-1.amazonaws.com:5432/ddpopru5daea9o"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
